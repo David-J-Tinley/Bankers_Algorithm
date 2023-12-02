@@ -1,6 +1,10 @@
+#
+# Makefile for Project 2
+# David J Tinley
+# 11/30/2023
+#
 
-
-CC = clang
+CC = gcc
 CFLAGS = -g -Wall -std=c17
 
 message:
